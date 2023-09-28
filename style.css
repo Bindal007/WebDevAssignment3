@@ -26,15 +26,6 @@ body {
 	text-align: center;
 }
 
-.hidden {
-  display: none;
-}
-
 .delete-edit-column {
   display: table-cell;
-}
-
-.edit-details {
-  display: flex;
-  justify-content: space-between;
 }
