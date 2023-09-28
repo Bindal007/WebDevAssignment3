@@ -1,6 +1,3 @@
-Sure, here's a README file template that you can use for your code:
-
-```markdown
 # Table CheckList Web Application
 
 Table CheckList is a simple web application that allows you to manage and track student records in a table format. It provides features for adding new students, editing student details, and selecting multiple students for deletion.
@@ -67,6 +64,3 @@ Please refer to the code comments and structure for more details on each functio
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-
-You can customize this README file to include more specific information about your project or any additional instructions for users and developers.
